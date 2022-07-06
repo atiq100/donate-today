@@ -97,6 +97,47 @@ body{
 #yellow-color{
     background: #FFF4D6;
 }
+.relief{
+    margin-left: 75px;
+}
+.support{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.card{
+    width: 300px;
+    box-shadow: 0px 4px 40px gray;
+    border-radius: 8px;
+    text-align: left;
+    padding-left: 10px;
+}
+.card-img{
+    width: 310px;
+    margin-left: -10px;
+
+}
+.city{
+    color: forestgreen;
+}
+.donate-time{
+    font-size: 14px;
+}
+.horizontal-align{
+    background-color:  forestgreen;
+    height: 5px;
+    margin-left: -8px;
+}
+.share-btn{
+    text-align: center;
+}
+.share{
+    border:1px solid coral;
+    background-color: white;
+    padding: 16px 12px;
+    border-radius: 5px;
+    color: black;
+}
 .subscribe{
     width: 800px;
     height: 200px;
