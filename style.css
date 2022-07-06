@@ -79,3 +79,21 @@ body{
     text-align: center;
     margin-left: 20px;
 }
+.donate-plan{
+    width: 360px;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#gray-color{
+    background: #4f9da6;
+    opacity: 0.8;
+}
+#pink-color{
+    background: #ff5959;
+    opacity: 0.8;
+}
+#yellow-color{
+    background: #FFF4D6;
+}
