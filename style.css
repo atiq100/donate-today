@@ -97,3 +97,44 @@ body{
 #yellow-color{
     background: #FFF4D6;
 }
+.subscribe{
+    width: 800px;
+    height: 200px;
+    background: #FFF4D6;
+    text-align: center;
+    margin: 0 auto;
+}
+.newslatter{
+   padding-top: 100px;
+}
+#email-field{
+    width: 275px;
+    height: 48px;
+    border: none;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+}
+.subscribe-btn{
+    width: 157px;
+    height: 48px;
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    border: none;
+    color: white;
+    margin-left: -4.5px;
+}
+.footer{
+    height: 20vh;
+    background: black;
+    margin-top: 50px;
+}
+.footer-section{
+    text-align: center;
+    color: white;
+}
+.humble{   
+    font-style: italic;
+    font-weight: 400;
+    font-size: 36px;
+    color:  #FF5959;
+}
